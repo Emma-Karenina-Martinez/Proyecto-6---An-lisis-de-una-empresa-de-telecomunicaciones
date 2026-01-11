@@ -46,3 +46,5 @@ Al completar este proyecto podrás:
 🔧 Herramientas utilizadas
 Jupyter Notebook
 Python con librerías: pandas, numpy, seaborn, matplotlib
+
+ejecutar el notebook (abrirlo en Google Colab)
